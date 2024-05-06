@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print a greeting
-        run: echo "Hello, welcome to GitHub Actions!"
+        run: echo "Hello Sebastian, welcome to GitHub Actions!"
